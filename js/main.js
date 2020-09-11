@@ -23,3 +23,4 @@ function formula(a,b) {
 }
 
 formula(3,2);
+dividir(formula(3,2), 2);
